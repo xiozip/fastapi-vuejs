@@ -1,0 +1,12 @@
+apiVersion: v2
+name: bfa
+description: FASTAPI
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+keywords:
+  - kubernetes
+  - helm
+maintainers:
+  - name: Your Name
+    email: your.email@example.com
