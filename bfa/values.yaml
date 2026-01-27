@@ -2,7 +2,7 @@ replicaCount: 3
 image:
   repository: xiozip/app-python
   pullPolicy: IfNotPresent
-  tag: "v3"
+  tag: "v1"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
